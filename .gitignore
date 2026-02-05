@@ -25,4 +25,8 @@ dist/
 #dotenv
 .env
 
+<<<<<<< HEAD
+=======
+#Python files
+>>>>>>> 763b3f3a2fe52bc0c8703cec3e7f221a05f3dea8
 main.py
