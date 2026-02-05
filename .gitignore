@@ -14,3 +14,6 @@ ENV/
 
 #dotenv
 .env
+
+#Python files
+main.py
