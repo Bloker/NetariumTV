@@ -9,8 +9,20 @@ __pycache__/
 venv/
 ENV/
 
-# JetBrains
+# Файлы дистрибутивов и артефакты упаковки
+dist/
+*.egg-info/
+
+# Файлы покрытия, кэши и прочие ненужные файлы
+.coverage
+*.py,cover
+.cache/
+
+# Ignore PyCharm configuration files
 .idea/
+*.iml
 
 #dotenv
 .env
+
+main.py
